@@ -1,9 +1,9 @@
-<h1 align="center">Hello, I'm Anushka Jadhav</h1>
+<h1 align="center">Hello 🍀 I'm Anushka Jadhav</h1>
 <p align="center">
   💻 Full-Stack Developer | ⚙️ Problem Solver | 📚 Lifelong Learner <br>
   🚀 Passionate about building impactful, scalable tech <br>
 </p>
-
+✨
 ---
 
 ### 🔍 About Me
